@@ -1,0 +1,38 @@
+{
+  "name": "react-typescript-example",
+  "version": "1.0.0",
+  "description": "Repositório de exemplo de uso do React, TypeScript e Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://edvaldoszy@github.com/edvaldoszy/react-typescript-example.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "webpack"
+  ],
+  "author": "Edvaldo Szymonek <edvaldoszy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edvaldoszy/react-typescript-example/issues"
+  },
+  "homepage": "https://github.com/edvaldoszy/react-typescript-example#readme",
+  "dependencies": {
+    "@types/react": "^15.0.20",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.2",
+    "copy-webpack-plugin": "^4.0.1",
+    "source-map-loader": "^0.2.0",
+    "typescript": "^2.2.1",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
